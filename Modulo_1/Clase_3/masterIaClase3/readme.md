@@ -1,0 +1,7 @@
+# Aca uno pone la descripcion del proyecto
+# que hace esta carpeta, que hace este proyecto
+# que tecnologia usa.
+
+
+
+# estoy haciendo un nuevo cambio 
